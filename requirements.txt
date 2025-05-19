@@ -1,5 +1,6 @@
 streamlit
 pandas
-joblib
 numpy
-sklearn
+joblib
+scikit-learn
+altair
